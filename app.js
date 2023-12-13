@@ -49,6 +49,30 @@ let products = [
         name: 'PRODUCT NAME 6',
         image: 'item6.png',
         price: 850
+    },
+    {
+        id: 7,
+        name: 'PRODUCT 3',
+        image: 'item3.png',
+        price: 2200
+    },
+    {
+        id: 8,
+        name: 'PRODUCT 4',
+        image: 'item4.png',
+        price: 3235
+    },
+    {
+        id: 9,
+        name: 'PRODUCT NAME 5',
+        image: 'item5.png',
+        price: 4500
+    },
+    {
+        id: 10,
+        name: 'PRODUCT NAME 6',
+        image: 'item6.png',
+        price: 850
     }
 ];
 let listCards  = [];
